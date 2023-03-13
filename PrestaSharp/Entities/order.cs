@@ -26,7 +26,7 @@ namespace Bukimedia.PrestaSharp.Entities
         /// It´s a logical DateTime. Format YYYY-MM-DD HH:MM:SS.
         /// </summary>
         public string invoice_date { get; set; }
-        public long delivery_number { get; set; }
+        public string delivery_number { get; set; }
         /// <summary>
         /// It´s a logical DateTime. Format YYYY-MM-DD HH:MM:SS.
         /// </summary>
